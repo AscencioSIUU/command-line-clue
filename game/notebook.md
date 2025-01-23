@@ -2,12 +2,12 @@
 
 ## Suspects
 - [ ] The Tailor
-- [ ] The Gardener
+- [x] The Gardener
 - [ ] The Blacksmith
 
 ## Weapons
 - [x] Old Key
-- [ ] Silver Watch
+- [x] Silver Watch
 - [ ] Paint Brush
 
 ## Notes
