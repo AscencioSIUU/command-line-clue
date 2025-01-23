@@ -1,0 +1,5 @@
+Investigation Update:
+
+The floorboards creak, suggesting someone recently walked towards the market.
+
+Remember: Use 'cd "market"' to follow this lead.
