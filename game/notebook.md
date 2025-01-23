@@ -6,7 +6,7 @@
 - [ ] The Blacksmith
 
 ## Weapons
-- [ ] Old Key
+- [x] Old Key
 - [ ] Silver Watch
 - [ ] Paint Brush
 
